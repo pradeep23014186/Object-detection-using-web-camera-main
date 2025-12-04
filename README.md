@@ -116,7 +116,8 @@ cv2.destroyAllWindows()
 ```
 
 ## Output:
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/25d91806-c652-49b5-8947-eae725e987a1" />
+<img width="800" height="591" alt="frame" src="https://github.com/user-attachments/assets/9b23deb9-717e-4390-ac6c-6e6a8e5cbc54" />
+
 
 ## Result
 Thus the program to perform real-time object detection using a web camera is successfully executed. 
